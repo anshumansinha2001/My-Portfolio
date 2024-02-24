@@ -235,7 +235,7 @@ export const projects = [
     description:
       "Developed Fashino, an innovative E-commerce clothing website, offering a dynamic shopping experience with a wide fashion range. Utilized 𝗛𝗧𝗠𝗟, 𝗖𝗦𝗦, 𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽, and 𝗷𝗤𝘂𝗲𝗿𝘆 expertise to create a visually appealing, user-friendly, and accessible interface. Ensured website responsiveness across devices, optimizing user experiences on desktops, tablets, and smartphones.",
     image:
-      "https://media.licdn.com/dms/image/D562DAQE5RV5S7W3cXA/profile-treasury-image-shrink_800_800/0/1696694328794?e=1709146800&v=beta&t=rz_7W9vJtt-zA92M03pIZOWmNQ_WAGnP-t7v20ppiUA",
+      "https://github.com/anshumansinha2001/fashino-clothing/raw/main/Cover.png",
     tags: ["jQuery", "Bootstrap", "CSS", "HTML5"],
     category: "frontend",
     github: "https://github.com/anshumansinha2001/fashino-clothing",
