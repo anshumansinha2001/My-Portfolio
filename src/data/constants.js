@@ -241,4 +241,16 @@ export const projects = [
     github: "https://github.com/anshumansinha2001/fashino-clothing",
     webapp: "https://anshumansinha-fashino.netlify.app/",
   },
+  {
+    id: 4,
+    title: "Blogify - Your Personal Blogging Platform",
+    date: "Feb 2024",
+    description:
+      "A dynamic blog website where users can seamlessly upload and engage with content through comments. To ensure a secure experience, I implemented JWT token authentication. The server-side design, powered by EJS, NodeJS, and Express, is intricately connected to a MongoDB database. While the foundation is set, continuous enhancements are in the pipeline to elevate user experience. Join me on this journey of refining Blogify for a robust and interactive blogging platform. Stay tuned for upcoming features and improvements!",
+    image: "https://github.com/anshumansinha2001/Blogify/raw/main/cover.png",
+    tags: ["EJS", "JWT", "NodeJs", "ExpressJs", "MongoDB"],
+    category: "backend",
+    github: "https://github.com/anshumansinha2001/Blogify",
+    webapp: "https://blogify-kg1y.onrender.com",
+  },
 ];
