@@ -137,7 +137,7 @@ export const experiences = [
     img: "https://media.licdn.com/dms/image/C4E0BAQHfk_O8amPovQ/company-logo_200_200/0/1642532597684/oasis_infobyte_logo?e=1716422400&v=beta&t=T7-XRKrOCaGC4N2ysQTcAcYqP1nky6opEAC62k6yS4c",
     role: "Web Development & Designing",
     company: "OASIS INFOBYTE",
-    date: "Nov 2020 – June 2024",
+    date: "Jan 2024 – Feb 2024",
     desc: "Successfully designed and implemented a CV generator project using front-end technologies, showcasing practical skills in HTML, CSS, and JavaScript. Actively engaged in problem-solving within the context of web development, demonstrating the ability to troubleshoot and overcome challenges encountered during project development. Currently gaining hands-on experience in front-end web development through an ongoing internship, applying theoretical knowledge to real-world scenarios and refining skills in web design and development.",
     skills: ["HTML", "CSS", "jQuery", "Material UI", "Bootstrap", "JS"],
     doc: "https://media.licdn.com/dms/image/D562DAQHh86nolE6bGg/profile-treasury-image-shrink_1280_1280/0/1703928990175?e=1709143200&v=beta&t=m90rn6ucwEIjHUzmDw5J4YmtTW9N8i-Kh8w4nsurX3k",
