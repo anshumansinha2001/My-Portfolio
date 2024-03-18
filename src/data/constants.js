@@ -140,7 +140,7 @@ export const experiences = [
     date: "Jan 2024 – Feb 2024",
     desc: "Successfully designed and implemented a CV generator project using front-end technologies, showcasing practical skills in HTML, CSS, and JavaScript. Actively engaged in problem-solving within the context of web development, demonstrating the ability to troubleshoot and overcome challenges encountered during project development. Currently gaining hands-on experience in front-end web development through an ongoing internship, applying theoretical knowledge to real-world scenarios and refining skills in web design and development.",
     skills: ["HTML", "CSS", "jQuery", "Material UI", "Bootstrap", "JS"],
-    doc: "https://media.licdn.com/dms/image/D562DAQHh86nolE6bGg/profile-treasury-image-shrink_1280_1280/0/1703928990175?e=1709143200&v=beta&t=m90rn6ucwEIjHUzmDw5J4YmtTW9N8i-Kh8w4nsurX3k",
+    doc: "https://media.licdn.com/dms/image/D562DAQHh86nolE6bGg/profile-treasury-image-shrink_1280_1280/0/1703928990175?e=1711353600&v=beta&t=iHCEB-fJROe7y8F1HujnkfWjq1pBoaUth_pHjeHFhb0",
   },
   {
     id: 1,
@@ -150,7 +150,7 @@ export const experiences = [
     date: "Nov 2023 - Dec 2023",
     desc: "Applied HTML, CSS, and JavaScript skills in real-world scenarios during a web development internship. Designed and assessed a variety of projects, including a landing page, portfolio, and calculator. Acquired practical experience in front-end development, honing proficiency in HTML, CSS, and JavaScript through hands on projects.",
     skills: ["HTML5", "CSS", "JavaScript"],
-    doc: "https://media.licdn.com/dms/image/D562DAQEYGwHJuFQvCw/profile-treasury-image-shrink_800_800/0/1703929388420?e=1709143200&v=beta&t=HNxHCm5cVoPMA2u5w9lvuN-kNTxcTQWulYfQ1GtTC9k",
+    doc: "https://media.licdn.com/dms/image/D562DAQEYGwHJuFQvCw/profile-treasury-image-shrink_800_800/0/1703929388420?e=1711353600&v=beta&t=sGir4nTd34RSYjqbLI77940ATlc7EChE4cv3GGhJz88",
   },
 ];
 
