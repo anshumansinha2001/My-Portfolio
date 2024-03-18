@@ -243,6 +243,19 @@ export const projects = [
   },
   {
     id: 4,
+    title: "Essence Evoke Perfume Website",
+    date: "Feb 2024",
+    description:
+      "Essence Evoke is a captivating static frontend perfume website meticulously crafted with HTML, CSS, and JavaScript. Designed to captivate the senses, it serves as an elegant platform for showcasing a myriad of exquisite perfume products. From the allure of floral fragrances to the sophistication of woody blends, Essence Evoke offers a curated selection to tantalize every taste. With its intuitive interface and seamless navigation, users are invited into a world where luxury meets convenience. Immerse yourself in the essence of sophistication with Essence Evoke, where every scent tells a unique story.",
+    image:
+      "https://github.com/anshumansinha2001/Perfume-Website/raw/main/coverpic.png",
+    tags: ["HTML", "CSS", "JavaScript"],
+    category: "frontend",
+    github: "https://github.com/anshumansinha2001/Perfume-Website",
+    webapp: "https://anshumansinha2001.github.io/Perfume-Website",
+  },
+  {
+    id: 5,
     title: "Blogify - Your Personal Blogging Platform",
     date: "Feb 2024",
     description:
