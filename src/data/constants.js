@@ -178,8 +178,29 @@ export const education = [
 export const projects = [
   {
     id: 0,
+    title: "Foodie - Ecommerce Website",
+    date: "March 2024 - Present",
+    description:
+      "Foodi E-commerce Website: Spearheaded development of an e-commerce platform using MongoDB, Firebase, React, Express, and Node.js. Integrated Stripe for secure payments and designed a user-friendly interface with Tailwind CSS. Implemented user authentication, product catalog, shopping cart, order tracking, and profile management features. Developed an admin panel for product management and transaction monitoring. Leveraged a robust technological stack to deliver a seamless user experience. Collaborated with a team to ensure project success.",
+    image:
+      "https://github.com/anshumansinha2001/Foodi-EcommerceWebsite/raw/main/cover.png",
+    tags: [
+      "firebase",
+      "Tailwind CSS",
+      "React Js",
+      "Node Js",
+      "Express Js",
+      "MongoDB",
+      "JSON Web Token (JWT)",
+    ],
+    category: "web app",
+    github: "https://github.com/anshumansinha2001/Foodi-EcommerceWebsite",
+    webapp: "https://foodi-ecommerce.vercel.app/",
+  },
+  {
+    id: 0,
     title: "SinhaServices - MERN Project",
-    date: "Feb 2024 - Present",
+    date: "Feb 2024 ",
     description:
       "This application focused on robust authorization features. 𝗨𝘀𝗲𝗿𝘀 𝗰𝗮𝗻 𝘀𝗲𝗮𝗺𝗹𝗲𝘀𝘀𝗹𝘆 𝗿𝗲𝗴𝗶𝘀𝘁𝗲𝗿, 𝗹𝗼𝗴𝗶𝗻, 𝗮𝗻𝗱 𝗽𝗿𝗼𝘃𝗶𝗱𝗲 𝗳𝗲𝗲𝗱𝗯𝗮𝗰𝗸 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝘁𝗵𝗲 𝗰𝗼𝗻𝘁𝗮𝗰𝘁 𝘂𝘀 𝗳𝗼𝗿𝗺. The application incorporates an exclusive Admin panel accessible only to administrators, facilitating user management and editing capabilities. Within the 𝗔𝗱𝗺𝗶𝗻 𝗽𝗮𝗻𝗲𝗹, an extensive services section empowers users to enroll in various offerings. Sinha Services not only ensures a secure and user-friendly experience but also offers administrators comprehensive control over user management and service provision.",
     image:
