@@ -195,10 +195,10 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/anshumansinha2001/Foodi-EcommerceWebsite",
-    webapp: "https://foodi-ecommerce.vercel.app/",
+    webapp: "https://foodi-ecommerce.vercel.app",
   },
   {
-    id: 0,
+    id: 1,
     title: "SinhaServices - MERN Project",
     date: "Feb 2024 ",
     description:
@@ -219,7 +219,7 @@ export const projects = [
     webapp: "https://sinhaservices.vercel.app",
   },
   {
-    id: 1,
+    id: 2,
     title: "TwitterX Clone - Tailwind CSS Project",
     date: "Jan 2024",
     description:
@@ -232,7 +232,7 @@ export const projects = [
     webapp: "https://anshumansinha2001.github.io/TwitterX-clone",
   },
   {
-    id: 2,
+    id: 3,
     title: "To-Do List Project",
     date: "Oct 2023",
     description:
@@ -250,7 +250,21 @@ export const projects = [
     webapp: "http://todolistv2-anshumansinha.onrender.com",
   },
   {
-    id: 3,
+    id: 4,
+    title: "Portfolio - Website",
+    date: "July 2023",
+    description:
+      "Create a dynamic portfolio website showcasing your talents and accomplishments. Incorporate a clean and modern design, intuitive navigation, and responsive layout for seamless viewing on various devices. Include sections for projects, about me, resume, and contact information. Utilize HTML, CSS, and JavaScript for front-end development, and consider using frameworks like Bootstrap or Tailwind CSS for efficiency. Implement smooth animations and interactive elements to engage visitors. Ensure compatibility across different browsers and optimize for fast loading speeds. Showcase your creativity and professionalism through this personalized online presence.",
+    image:
+      "https://github.com/anshumansinha2001/portfolio-website/raw/main/Banner.png",
+    tags: ["jQuery", "CSS", "HTML5"],
+    category: "frontend",
+    github: "hhttps://github.com/anshumansinha2001/portfolio-website",
+    webapp: "https://anshumansinha-portfolio.netlify.app",
+  },
+
+  {
+    id: 5,
     title: "Fashino - E Commerce Website",
     date: "April 2023",
     description:
@@ -263,7 +277,7 @@ export const projects = [
     webapp: "https://anshumansinha-fashino.netlify.app/",
   },
   {
-    id: 4,
+    id: 6,
     title: "Essence Evoke Perfume Website",
     date: "Feb 2024",
     description:
@@ -276,7 +290,7 @@ export const projects = [
     webapp: "https://anshumansinha2001.github.io/Perfume-Website",
   },
   {
-    id: 5,
+    id: 7,
     title: "Blogify - Your Personal Blogging Platform",
     date: "Feb 2024",
     description:
