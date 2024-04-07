@@ -5,7 +5,7 @@ export const Bio = {
     "Motivated and versatile final year college student with a passion for web development and a solid Java foundation. Recently completed MERN stack development, showcasing commitment to modern technologies. Eager to transition from a dedicated learner to a skilled developer, bringing a positive attitude, growth mindset, and dedication to delivering high-quality results. Actively seeking opportunities to contribute expertise to cutting-edge projects and achieve great things. Let's connect and explore potential collaborations!",
   github: "https://github.com/anshumansinha2001",
   resume:
-    "https://drive.google.com/file/d/1lgOXoV5XvpYtmkJqYiwiuVpVnOhx6FrU/view?usp=sharing",
+    "https://www.linkedin.com/in/anshumansinha2001/overlay/1710692016562/single-media-viewer/?profileId=ACoAADOjpH4BEVJ5Nv0xv0S6ijlkDk25j5DMx2c",
   linkedin: "https://www.linkedin.com/in/anshumansinha2001",
   twitter: "https://twitter.com/ianshumansinha",
   insta: "https://www.instagram.com/theanshumansinha",
@@ -177,7 +177,28 @@ export const education = [
 
 export const projects = [
   {
-    id: 0,
+    id: 1,
+    title: "Web Chatting Application",
+    date: "April 2024",
+    description:
+      "Chat App is a cutting-edge web application leveraging MERN stack technology, Socket.io for seamless real-time messaging, and Tailwind CSS for sleek design. With robust features including JWT-based authentication, online user status tracking, and error handling, it provides a secure and dynamic platform for instant communication. Powered by Zustand for efficient state management, deployment is effortless with professional-grade strategies. Experience seamless chatting with Chat App, where modern innovation meets user-friendly functionality.",
+    image:
+      "https://media.licdn.com/dms/image/D4D2DAQE1MTwS2r7gxg/profile-treasury-image-shrink_800_800/0/1712515692587?e=1713121200&v=beta&t=nVNjUohbqwdpHjTdAiJIdoUxZS4THhMIytBH05EqAuw",
+    tags: [
+      "Socket.io",
+      "Tailwind CSS",
+      "React Js",
+      "Node Js",
+      "Express Js",
+      "MongoDB",
+      "JSON Web Token (JWT)",
+    ],
+    category: "web app",
+    github: "https://github.com/anshumansinha2001/ChatApp",
+    webapp: "https://chatapp-fl67.onrender.com",
+  },
+  {
+    id: 2,
     title: "Foodie - Ecommerce Website",
     date: "March 2024 - Present",
     description:
@@ -198,7 +219,7 @@ export const projects = [
     webapp: "https://foodi-ecommerce.vercel.app",
   },
   {
-    id: 1,
+    id: 3,
     title: "SinhaServices - MERN Project",
     date: "Feb 2024 ",
     description:
@@ -219,7 +240,7 @@ export const projects = [
     webapp: "https://sinhaservices.vercel.app",
   },
   {
-    id: 2,
+    id: 4,
     title: "TwitterX Clone - Tailwind CSS Project",
     date: "Jan 2024",
     description:
@@ -232,7 +253,7 @@ export const projects = [
     webapp: "https://anshumansinha2001.github.io/TwitterX-clone",
   },
   {
-    id: 3,
+    id: 5,
     title: "To-Do List Project",
     date: "Oct 2023",
     description:
@@ -250,7 +271,7 @@ export const projects = [
     webapp: "http://todolistv2-anshumansinha.onrender.com",
   },
   {
-    id: 4,
+    id: 6,
     title: "Portfolio - Website",
     date: "July 2023",
     description:
@@ -264,7 +285,7 @@ export const projects = [
   },
 
   {
-    id: 5,
+    id: 7,
     title: "Fashino - E Commerce Website",
     date: "April 2023",
     description:
@@ -277,7 +298,7 @@ export const projects = [
     webapp: "https://anshumansinha-fashino.netlify.app/",
   },
   {
-    id: 6,
+    id: 8,
     title: "Essence Evoke Perfume Website",
     date: "Feb 2024",
     description:
@@ -290,7 +311,7 @@ export const projects = [
     webapp: "https://anshumansinha2001.github.io/Perfume-Website",
   },
   {
-    id: 7,
+    id: 8,
     title: "Blogify - Your Personal Blogging Platform",
     date: "Feb 2024",
     description:
