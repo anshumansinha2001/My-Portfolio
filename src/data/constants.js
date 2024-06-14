@@ -1,11 +1,11 @@
 export const Bio = {
   name: "Anshuman Sinha",
-  roles: ["Full Stack Developer", "Programmer"],
+  roles: ["Full-Stack Developer", "Programmer"],
   description:
-    "Motivated and versatile final year college student with a passion for web development and a solid Java foundation. Recently completed MERN stack development, showcasing commitment to modern technologies. Eager to transition from a dedicated learner to a skilled developer, bringing a positive attitude, growth mindset, and dedication to delivering high-quality results. Actively seeking opportunities to contribute expertise to cutting-edge projects and achieve great things. Let's connect and explore potential collaborations!",
+    "As a Computer Science graduate and MERN full-stack developer, I bring expertise in Java and object-oriented programming. With a passion for lifelong learning, I stay current with emerging tech trends. My skills in creative problem-solving and commitment to mentorship thrive in dynamic, collaborative environments. Let's connect to drive innovation and craft impactful solutions together in the tech industry!",
   github: "https://github.com/anshumansinha2001",
   resume:
-    "https://www.linkedin.com/in/anshumansinha2001/overlay/1710692016562/single-media-viewer/?profileId=ACoAADOjpH4BEVJ5Nv0xv0S6ijlkDk25j5DMx2c",
+    "https://drive.google.com/file/d/1QB_ESXvCjI9uGUfrkfIUVWzFzj2FuHh6/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/anshumansinha2001",
   twitter: "https://twitter.com/ianshumansinha",
   insta: "https://www.instagram.com/theanshumansinha",
@@ -134,44 +134,43 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/C4E0BAQHfk_O8amPovQ/company-logo_200_200/0/1642532597684/oasis_infobyte_logo?e=1716422400&v=beta&t=T7-XRKrOCaGC4N2ysQTcAcYqP1nky6opEAC62k6yS4c",
-    role: "Web Development & Designing",
-    company: "OASIS INFOBYTE",
-    date: "Jan 2024 – Feb 2024",
-    desc: "Successfully designed and implemented a CV generator project using front-end technologies, showcasing practical skills in HTML, CSS, and JavaScript. Actively engaged in problem-solving within the context of web development, demonstrating the ability to troubleshoot and overcome challenges encountered during project development. Currently gaining hands-on experience in front-end web development through an ongoing internship, applying theoretical knowledge to real-world scenarios and refining skills in web design and development.",
-    skills: ["HTML", "CSS", "jQuery", "Material UI", "Bootstrap", "JS"],
-    doc: "https://media.licdn.com/dms/image/D562DAQHh86nolE6bGg/profile-treasury-image-shrink_1280_1280/0/1703928990175?e=1711353600&v=beta&t=iHCEB-fJROe7y8F1HujnkfWjq1pBoaUth_pHjeHFhb0",
-  },
-  {
-    id: 1,
-    img: "https://media.licdn.com/dms/image/D560BAQHDmIfYA5sY7w/company-logo_200_200/0/1685777115831?e=1716422400&v=beta&t=N4LGZYwUjI-gspZlRvtUcNax3t2vO5hasybgpJXHxNs",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCX2Nab4XutVRrtYqESws3C1fTVB-8feTDrQ&s",
     role: "Web Development Intern",
     company: "CODSOFT",
     date: "Nov 2023 - Dec 2023",
     desc: "Applied HTML, CSS, and JavaScript skills in real-world scenarios during a web development internship. Designed and assessed a variety of projects, including a landing page, portfolio, and calculator. Acquired practical experience in front-end development, honing proficiency in HTML, CSS, and JavaScript through hands on projects.",
     skills: ["HTML5", "CSS", "JavaScript"],
-    doc: "https://media.licdn.com/dms/image/D562DAQEYGwHJuFQvCw/profile-treasury-image-shrink_800_800/0/1703929388420?e=1711353600&v=beta&t=sGir4nTd34RSYjqbLI77940ATlc7EChE4cv3GGhJz88",
+    doc: "https://media.licdn.com/dms/image/D562DAQEYGwHJuFQvCw/profile-treasury-image-shrink_800_800/0/1703929388420?e=1718956800&v=beta&t=voDeRbQL8RVrjelcCF6jR6_PmTv-Spj8mdLEc4b8vJY",
   },
 ];
 
 export const education = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/C510BAQE8vj4Hws3fVA/company-logo_200_200/0/1630574968023?e=1716422400&v=beta&t=o7FLivzVCG5cOoESn5ah0yjHscuRyfB6cQBYaOfMMhU",
-    school: "KNS Institute Of Technology, Bengaluru",
+    img: "https://jonnasuresh.wordpress.com/wp-content/uploads/2013/03/vtu-logo.png",
+    school: "Visvesvaraya Technological University, Bengaluru",
     date: "Oct 2020 - June 2024",
-    grade: "8.0 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at KNS Institute Of Technology, Bengaluru. I have completed 7th semesters and have a CGPA of 8.0. I have been taught in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
+    grade: "7.6 CGPA",
+    desc: "I recently graduated with a Bachelor's degree in Computer Science and Engineering from KNS Institute of Technology, Bengaluru. I have a CGPA of 7.6. Throughout my coursework, I have been taught in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
     degree: "Bachelor of Engineering - BE, Computer Science and Engineering",
   },
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/C510BAQGcv8M8B-5hkg/company-logo_200_200/0/1630568383735/kendriya_vidyalaya_sanghthan_logo?e=1716422400&v=beta&t=OrCT7utbM7W5i7ogqPDQbSfpwb5I5CR7UYAnEWbTOBs",
-    school: "Kendriya Vidyalaya, Patna",
-    date: "Apr 2007 - Apr 2019",
-    grade: "70%",
-    desc: "I completed my class 12 high school education at Kendriya Vidyalya, Patna, where I studied Science with Computer Science.",
+    img: "https://seeklogo.com/images/C/cbse-logo-46D5A6B556-seeklogo.com.png",
+    school: "Central Board of Secondary Education (CBSE)",
+    date: "Apr 2017 - Apr 2019",
+    grade: "60%",
+    desc: "I completed my class 12 high school education at Cambridge School, Patna, where I studied Science with Computer Science.",
     degree: "CBSE(XII), PCM",
+  },
+  {
+    id: 2,
+    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfpvZZzBgsezpeT8oVDgP12s8aX3KDAZcOmR52o4YJM7Gxk-7CAIGk7dGfVxUfo7YFL83R38A8RFL_hER51_dA98PZ85FC8pEIAo0wbAwmSFxRfKKQuppoNE-7Rwf6sF_FDO3BVnyYUg/s320/kvs-logo-with-bg.png",
+    school: "Kendriya Vidyalaya No.2",
+    date: "Apr 2007 - Apr 2017",
+    grade: "7.4 CGPA",
+    desc: "I completed my class 10th school education at  Kendriya Vidyalya Patna.",
+    degree: "CBSE(X)",
   },
 ];
 
@@ -182,8 +181,7 @@ export const projects = [
     date: "April 2024",
     description:
       "Chat App is a cutting-edge web application leveraging MERN stack technology, Socket.io for seamless real-time messaging, and Tailwind CSS for sleek design. With robust features including JWT-based authentication, online user status tracking, and error handling, it provides a secure and dynamic platform for instant communication. Powered by Zustand for efficient state management, deployment is effortless with professional-grade strategies. Experience seamless chatting with Chat App, where modern innovation meets user-friendly functionality.",
-    image:
-      "https://media.licdn.com/dms/image/D4D2DAQE1MTwS2r7gxg/profile-treasury-image-shrink_800_800/0/1712515692587?e=1713121200&v=beta&t=nVNjUohbqwdpHjTdAiJIdoUxZS4THhMIytBH05EqAuw",
+    image: "https://i.ibb.co/k2Zdmrh/coverPic.png",
     tags: [
       "Socket.io",
       "Tailwind CSS",
