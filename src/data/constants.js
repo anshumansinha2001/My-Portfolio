@@ -3,14 +3,14 @@ export const Bio = {
   roles: [
     "Full-Stack Developer",
     "React Developer",
+    "Frontend Developer",
     "Backend Developer",
-    "Java Developer",
   ],
   description:
-    "As a Computer Science graduate and MERN full-stack developer, I bring expertise in Java and object-oriented programming. With a passion for lifelong learning, I stay current with emerging tech trends. My skills in creative problem-solving and commitment to mentorship thrive in dynamic, collaborative environments. Let's connect to drive innovation and craft impactful solutions together in the tech industry!",
+    "As a computer engineering student with a keen interest in web development, I am constantly exploring the fascinating world of creating and optimizing websites. I enjoy leveraging my technical skills to design intuitive user interfaces and develop efficient back-end systems. Excited to contribute my expertise to building innovative digital experiences. Let's connect to drive innovation and craft impactful solutions together in the tech industry!",
   github: "https://github.com/anshumansinha2001",
   resume:
-    "https://drive.google.com/file/d/16HrSpun5tndUy-dfTVwohTE6CZ69HM6G/view?usp=sharing",
+    "https://drive.google.com/file/d/1JaPn1brIjSLjpSnbB8LOdoN6FAlUWRbE/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/anshumansinha2001",
   twitter: "https://twitter.com/ianshumansinha",
   insta: "https://www.instagram.com/theanshumansinha",
@@ -30,6 +30,11 @@ export const skills = [
         name: "Redux",
         image:
           "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
+      },
+      {
+        name: "Next.js",
+        image:
+          "https://th.bing.com/th?id=OIP.QMm8melj-4Qc0UfwN0aC_gHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
       },
       {
         name: "jQuery",
@@ -56,14 +61,13 @@ export const skills = [
           "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
       },
       {
+        name: "Aceternity",
+        image: "https://ui.aceternity.com/logo.png",
+      },
+      {
         name: "Tailwind CSS",
         image:
           "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tailwind-css-icon.png",
-      },
-      {
-        name: "Daisy UI",
-        image:
-          "https://media.licdn.com/dms/image/D4D0BAQE65ASbhIXWRw/company-logo_200_200/0/1667521541193?e=2147483647&v=beta&t=exVk8_8mzZbtzSg4WOQ7YVyt5ps4i-CdvzTNxB5Add8",
       },
     ],
   },
@@ -103,6 +107,11 @@ export const skills = [
   {
     title: "Others",
     skills: [
+      {
+        name: "TypeScript",
+        image:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrR0a-3yqTpP_sPX8nnUokHoiDKFt3t8zwIxiqLnHnIRoEMVUSaJzliZqIPyKFNJ1E_is&usqp=CAU",
+      },
       {
         name: "Java",
         image:
