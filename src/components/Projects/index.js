@@ -32,6 +32,24 @@ const Projects = ({ openModal, setOpenModal }) => {
           )}
 
           <Divider />
+          {toggle === "fullstack" ? (
+            <ToggleButton
+              active
+              value="fullstack"
+              onClick={() => setToggle("fullstack")}
+            >
+              Fullstack
+            </ToggleButton>
+          ) : (
+            <ToggleButton
+              value="fullstack"
+              onClick={() => setToggle("fullstack")}
+            >
+              Fullstack
+            </ToggleButton>
+          )}
+
+          <Divider />
           {toggle === "frontend" ? (
             <ToggleButton
               active

@@ -7,7 +7,7 @@ export const Bio = {
     "Backend Developer",
   ],
   description:
-    "As a computer engineering student with a keen interest in web development, I am constantly exploring the fascinating world of creating and optimizing websites. I enjoy leveraging my technical skills to design intuitive user interfaces and develop efficient back-end systems. Excited to contribute my expertise to building innovative digital experiences. Let's connect to drive innovation and craft impactful solutions together in the tech industry!",
+    "As a full stack web developer and graduated engineer, I specialize in building diverse web applications. My expertise spans both front-end and back-end technologies, ensuring seamless and user-friendly interfaces coupled with robust server-side functionality. With a strong foundation in engineering principles and hands-on experience, I deliver high-quality solutions tailored to client needs, driving innovation and efficiency in every project I undertake. Let's connect to drive innovation and craft impactful solutions together in the tech industry!",
   github: "https://github.com/anshumansinha2001",
   resume:
     "https://drive.google.com/file/d/1JaPn1brIjSLjpSnbB8LOdoN6FAlUWRbE/view?usp=sharing",
@@ -200,6 +200,26 @@ export const education = [
 
 export const projects = [
   {
+    id: 0,
+    title: "NextAuthApp",
+    date: "June 2024",
+    description:
+      "Developed a robust user authentication system for a web application using Next.js and TypeScript. The implementation ensures secure login, registration, and session management functionalities. Leveraged Next.js's server-side capabilities to enhance security and performance. Utilized TypeScript for type safety and maintainability throughout the project.",
+    image:
+      "https://github.com/anshumansinha2001/nextauthapp/raw/main/public/auth1.png",
+    tags: [
+      "Next.js",
+      "TypeScript",
+      "bycryptjs",
+      "MongoDB",
+      "Tailwind CSS",
+      "JSON Web Token (JWT)",
+    ],
+    category: "fullstack",
+    github: "https://github.com/anshumansinha2001/nextauthapp",
+    webapp: "https://nextauthv3.vercel.app",
+  },
+  {
     id: 1,
     title: "Web Chatting Application",
     date: "April 2024",
@@ -215,7 +235,7 @@ export const projects = [
       "MongoDB",
       "JSON Web Token (JWT)",
     ],
-    category: "web app",
+    category: "fullstack",
     github: "https://github.com/anshumansinha2001/ChatApp",
     webapp: "https://chatapp-fl67.onrender.com",
   },
@@ -236,7 +256,7 @@ export const projects = [
       "MongoDB",
       "JSON Web Token (JWT)",
     ],
-    category: "web app",
+    category: "fullstack",
     github: "https://github.com/anshumansinha2001/Foodi-EcommerceWebsite",
     webapp: "https://foodi-ecommerce.vercel.app",
   },
@@ -257,7 +277,7 @@ export const projects = [
       "MongoDB",
       "JSON Web Token (JWT)",
     ],
-    category: "web app",
+    category: "fullstack",
     github: "https://github.com/anshumansinha2001/MERN-Project1-SinhaServices",
     webapp: "https://sinhaservices.vercel.app",
   },
@@ -278,7 +298,7 @@ export const projects = [
     ],
     category: "frontend",
     github: "https://github.com/anshumansinha2001/AppwriteBlog",
-    webapp: "https://anshumansinha2001.github.io/TwitterX-clone",
+    webapp: "https://anshuman-appwrite-blog.vercel.app",
   },
 
   {
@@ -314,16 +334,16 @@ export const projects = [
   },
   {
     id: 7,
-    title: "Portfolio - Website",
+    title: "Portfolio (outdated)",
     date: "July 2023",
     description:
       "Create a dynamic portfolio website showcasing your talents and accomplishments. Incorporate a clean and modern design, intuitive navigation, and responsive layout for seamless viewing on various devices. Include sections for projects, about me, resume, and contact information. Utilize HTML, CSS, and JavaScript for front-end development, and consider using frameworks like Bootstrap or Tailwind CSS for efficiency. Implement smooth animations and interactive elements to engage visitors. Ensure compatibility across different browsers and optimize for fast loading speeds. Showcase your creativity and professionalism through this personalized online presence.",
     image:
-      "https://github.com/anshumansinha2001/portfolio-website/raw/main/Banner.png",
+      "https://raw.githubusercontent.com/anshumansinha2001/portfolio/main/Banner.png",
     tags: ["jQuery", "CSS", "HTML5"],
     category: "frontend",
     github: "hhttps://github.com/anshumansinha2001/portfolio-website",
-    webapp: "https://anshumansinha-portfolio.netlify.app",
+    webapp: "https://anshumansinha2001.netlify.app",
   },
 
   {
