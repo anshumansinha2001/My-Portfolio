@@ -140,26 +140,29 @@ const ContactButton = styled.input`
 const Contact = () => {
   const form = useRef();
 
-  const handleSubmit = (e) => {
-    e.preventDefault();
+  const ACCESS_KEY = process.env.REACT_APP_ACCESS_KEY;
 
-    emailjs
-      .sendForm(
-        "service_ebrmhfu",
-        "template_ladvmjk",
-        form.current,
-        "vTBUgGcL_OvM5TUOv"
-      )
-      .then(
-        (result) => {
-          toast.success("Sent successfully !");
-          form.current.reset();
-        },
-        (error) => {
-          toast.error("Failed to send. Please try again later.");
-          console.log("FAILED...", error.text);
-        }
-      );
+  const handleSubmit = async (event) => {
+    event.preventDefault();
+    toast.info("Sending....");
+    const formData = new FormData(event.target);
+
+    formData.append("access_key", ACCESS_KEY);
+
+    const response = await fetch("https://api.web3forms.com/submit", {
+      method: "POST",
+      body: formData,
+    });
+
+    const data = await response.json();
+
+    if (data.success) {
+      toast.success("Thank You For Contacting. I'll get back to you soon!");
+      event.target.reset();
+    } else {
+      console.log("Error", data);
+      toast.error("Failed!");
+    }
   };
 
   return (
